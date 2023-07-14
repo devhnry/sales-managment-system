@@ -1,0 +1,19 @@
+C:\Users\Henry\source\repos\DG Sales Management System\bin\Debug\DG Sales Management System.exe
+C:\Users\Henry\source\repos\DG Sales Management System\bin\Debug\DG Sales Management System.pdb
+C:\Users\Henry\source\repos\DG Sales Management System\bin\Debug\DG Sales Management System.exe.config
+C:\Users\Henry\source\repos\DG Sales Management System\bin\Debug\MySql.Data.dll
+C:\Users\Henry\source\repos\DG Sales Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\Henry\source\repos\DG Sales Management System\bin\Debug\MySql.Data.xml
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG Sales Management System.csproj.AssemblyReference.cache
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG Sales Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG_Sales_Management_System.CategoryForm.resources
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG_Sales_Management_System.sellerForm.resources
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG_Sales_Management_System.ProductForm.resources
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG_Sales_Management_System.SignIN.resources
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG_Sales_Management_System.Properties.Resources.resources
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG Sales Management System.csproj.GenerateResource.cache
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG Sales Management System.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG Sales Management System.csproj.CopyComplete
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG Sales Management System.exe
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG Sales Management System.pdb
+C:\Users\Henry\source\repos\DG Sales Management System\obj\Debug\DG_Sales_Management_System.SellingForm.resources
